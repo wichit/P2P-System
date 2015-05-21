@@ -1,0 +1,5 @@
+P2P Programming Framework
+- Class peer (host, listening port for connection, max connection)
+- Each node act as client/server in itself
+- Server operation (main loop / handling a peer connection / Routing and sending messages)
+- Additional methods
